@@ -2,7 +2,7 @@
   "name": "🅰risto 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/EsportMusicX/SmokerMusicX",
+  "repository": "https://github.com/Huvaris/Aristo-Music-Bot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
